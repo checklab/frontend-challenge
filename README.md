@@ -17,3 +17,4 @@ After you complete this task - please deploy Page at CloudFalare and send us:
 
 ## Deadline is 2 weeks
 
+### If you take on the Challenge - then unsubscribe "I'm in"
